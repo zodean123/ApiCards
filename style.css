@@ -1,27 +1,3 @@
-/* *{
-    background-color:darkcyan
-}
-#ApiCards{
-    display: flex;
-    justify-content: center;
-    font-size: 5rem;
-    color:aliceblue
-}
-#test{
-
-    border-radius: 20px;
-    background-color: rgb(247, 199, 232);
-    padding: 10px;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 200;
-    font-size: 14px;
-    max-width: 70%;
-    color: rgb(235, 235, 235);
-margin: auto ;
-line-height: 50px;
-   margin-bottom: 20px;
-} */
 
 * {
     box-sizing: border-box;
